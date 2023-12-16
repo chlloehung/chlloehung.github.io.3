@@ -10,7 +10,7 @@
     padding:0 15px
 }
 
-#intro,#work,#team {                           /* icon title + info */
+#intro,#work,#team {                           
     padding-top: 4rem;
     font-family: 'DM Serif Display', serif;
 }
@@ -27,7 +27,7 @@
     -webkit-box-shadow: none !important 
 }
 
-.text_h {                                     /* I Love creating title */
+.text_h {                                    
     padding:15% 0;
     font-size:6.0em;
     font-weight:100;
@@ -35,7 +35,7 @@
     font-family: 'DM Serif Display', serif;
 }
 
-.brand-logo {                                 /* Chloe Hung logo */
+.brand-logo {                              
     position:absolute;
     color:#fff;
     display:inline-block;
@@ -47,21 +47,20 @@
     letter-spacing:7px
 }
 
-.text_h2 {                                 /* idk what this changes */
+.text_h2 {                                
     font-weight:100;
     margin-bottom:4%;
     line-height:4.5rem; 
-    /* font-family: 'Poppins', sans-serif; */ /*DELETE THIS ROW OF COMMENTS BEFORE SUBMITTING*/
 }
 
-.span_h2 {                                  /* intro font colour; trying to add font-family doesn't change font n removes colour */
+.span_h2 {                               
     font-weight:300;
     color:#77a4c9
 }
 
-.text_b {                                  /* font colour + text for "about me" WHY NO EDIT WORK */
+.text_b {                                  
     color: black;
- font-family: 'DM Serif Display', serif;
+    font-family: 'DM Serif Display', serif;
 }
 
 .in {
@@ -69,7 +68,7 @@
     font-style:normal !important
     font-family: 'DM Serif Display', serif;
 }
-.promo i {                           /* if i put poppins font family icons disappear */
+.promo i {                           
     color:#06375e;
     font-size:7rem;
     display: block;
@@ -91,7 +90,7 @@
     color: #EF9A9A
 }
 
-nav ul a {                                      /* idk what changes */
+nav ul a {                                    
     font-size:1.2rem;
     color:#FFF;
     letter-spacing:2px;
@@ -294,15 +293,13 @@ footer.page-footer {
     margin-top:0px !important
 }
 
-footer {                                             /* all footer text */
+footer {                                            
     text-align: center;
     font-family: 'DM Serif Display', serif;
 }
 
-h3 {                                        /* a few fun facts about me */
+h3 {                                        
     text-align: center;
     color: #003e80;
     font-family: 'DM Serif Display', serif; 
 }
-
-
